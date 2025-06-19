@@ -8,11 +8,11 @@ scipy
 scikit-learn
 matplotlib
 gensim
-torch
-transformers
+torch>=2.0.0
+transformers>=4.30.0
 tqdm
 openai
-gradio
+gradio>=4.0.0
 langchain
 tiktoken
 faiss-cpu
